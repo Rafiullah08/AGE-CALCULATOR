@@ -1,0 +1,78 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.age-calcu{
+    margin: auto;
+    background-color: blue;
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.headd{
+    font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+    padding-top: 15px;
+}
+
+.age-calcu-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+
+}
+
+.box1{
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.yourage{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+
+}
+
+#userage{
+    width: 300px;
+    height: 40px;
+    margin: auto;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    border-radius: 8px;
+}
+
+.chekbtn{
+  text-align: center;
+  background-color: blue;
+  width: 110px;
+  height: 45px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: larger;
+  margin-left: 600px;
+  margin-top: 10px;
+
+}
+
+body{
+    background-color: gray;
+}
